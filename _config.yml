@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://dandyraka.github.io/
+url: https://dandyraka.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
